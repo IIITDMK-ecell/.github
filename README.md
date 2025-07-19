@@ -3,7 +3,9 @@
  What We Do:
 
 Host engaging events, such as Startup & Innovation Hackathons, IPL style auctions, Speaker sessions, Founders’ talks.
+
 Build tech tools to take care of real problems and build local communities.
+
 Mentor students and guide student entrepreneurs
 
 📍 Based in IIITDM Kancheepuram, Tamil Nadu
